@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Black Belly&#39;s Very Own Wiki</title>
+    <description>This is where I dump all my nvALT note
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 07 Jan 2016 14:20:41 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Jan 2016 14:20:41 +0000</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Uniplaces Email Automation</title>
+        <description>&lt;h2 id=&quot;to-do&quot;&gt;To-do&lt;/h2&gt;
+
+&lt;p&gt;[ ] Edge case for empty listings&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/list/uniplaces/email-automation/open/2016/01/07/uniplaces-email-automation.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/list/uniplaces/email-automation/open/2016/01/07/uniplaces-email-automation.html</guid>
+        
+        
+        <category>list</category>
+        
+        <category>uniplaces</category>
+        
+        <category>email-automation</category>
+        
+        <category>open</category>
+        
+      </item>
+    
+      <item>
+        <title>Uniplaces Business Report</title>
+        <description>&lt;p&gt;The Uniplaces Business Report is the official document that contains all relevant KPIs. It is updated every Monday by the Marketing team, and followed by an email to team leaders.&lt;/p&gt;
+
+&lt;p&gt;The report has two main integrations, built around data dumps and offsets:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bookings&lt;/li&gt;
+  &lt;li&gt;Offers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A third integration, done via the &lt;a href=&quot;https://developers.google.com/analytics/solutions/google-analytics-spreadsheet-add-on?hl=en&quot;&gt;Google Analytics Spreadsheet Add-On&lt;/a&gt;, is Google Analytics.&lt;/p&gt;
+
+&lt;h1 id=&quot;to-do&quot;&gt;To do&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Update supply funnel&lt;/li&gt;
+  &lt;li&gt;Update demand funnel&lt;/li&gt;
+  &lt;li&gt;Update Board KPIs&lt;/li&gt;
+  &lt;li&gt;Add Signups&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;ongoing&quot;&gt;Ongoing&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Create Revenue tab, top-down from aggregates, to country, to city-level&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;staging&quot;&gt;Staging&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;New structure for 2016&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;production&quot;&gt;Production&lt;/h1&gt;
+</description>
+        <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/list/uniplaces/reporting/open/2016/01/07/uniplaces-business-report.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/list/uniplaces/reporting/open/2016/01/07/uniplaces-business-report.html</guid>
+        
+        
+        <category>list</category>
+        
+        <category>uniplaces</category>
+        
+        <category>reporting</category>
+        
+        <category>open</category>
+        
+      </item>
+    
+      <item>
+        <title>Taxonomy of Recommender Systems I</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/recommender-systems/lecture/Bc5F3/taxonomy-of-recommender-systems&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/reference/mood/rec-sys/open/2016/01/07/taxonomy-of-recommender-systems-1.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/reference/mood/rec-sys/open/2016/01/07/taxonomy-of-recommender-systems-1.html</guid>
+        
+        
+        <category>reference</category>
+        
+        <category>mood</category>
+        
+        <category>rec-sys</category>
+        
+        <category>open</category>
+        
+      </item>
+    
+      <item>
+        <title>Black Belly&#39;s Wiki</title>
+        <description>&lt;p&gt;tags: @list @open @wiki&lt;/p&gt;
+
+&lt;h1 id=&quot;taxonomy-of-recommender-systems-i&quot;&gt;Taxonomy of Recommender Systems I&lt;/h1&gt;
+
+&lt;h2 id=&quot;to-do&quot;&gt;To-do&lt;/h2&gt;
+
+&lt;p&gt;[ ] Add support for checkbox list (like this one!) - &lt;a href=&quot;https://github.com/gettalong/kramdown/issues/172&quot;&gt;Source&lt;/a&gt;
+[ ] Add Github login&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/reference/recsys/2016/01/07/black-bellys-wiki.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/reference/recsys/2016/01/07/black-bellys-wiki.html</guid>
+        
+        
+        <category>reference</category>
+        
+        <category>recsys</category>
+        
+      </item>
+    
+  </channel>
+</rss>

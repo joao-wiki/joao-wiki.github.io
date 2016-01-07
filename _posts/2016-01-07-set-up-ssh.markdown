@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Set Up SSH"
+date:   2016-01-07
+categories: linux-basics web-servers ssh
+---
+tags: @linux-basics @web-servers @ssh
+
+Refer to this walkthrough by Digital Ocean:
+
+[Initial Server Setup with Ubuntu](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
+
+Then, follow with this one:
+
+https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers
+
+Then you must decide whether to go with LAMP or LEMP.
