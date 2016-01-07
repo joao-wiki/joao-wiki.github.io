@@ -1,8 +1,11 @@
 ---
-title: Document Center
+layout: post
+title:  "Taxonomy of Recommender Systems I"
+date:   2016-01-07 10:25:00 +0000
+categories: wiki reference recsys
 ---
 
-tags: @recsys
+tags: @reference @recsys
 
 # Taxonomy of Recommender Systems I
 
